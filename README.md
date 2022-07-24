@@ -1,4 +1,5 @@
 # JMeter
+apache-jmeter-5.5に対する修正モジュールです。  
 javaのURLEncoder/Decoderを使用せずapacheのorg.apache.commons.codec.net.URLCodecを使用するための修正
 　org\apache\jmeter\functions  
 　org\apache\jmeter\protocol\http\sampler  
