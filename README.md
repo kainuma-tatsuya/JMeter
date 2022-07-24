@@ -9,4 +9,4 @@ apache-jmeter-5.5に対する修正モジュールです。
 ・Proxyの「Recording's default encoding」が記録の途中で変更できないのを変更可能にするための修正
 　org\apache\jmeter\protocol\http\proxy  
 ・上記２つの修正したモジュールを入れ替えたjar  
-  lib/ext  
+　lib/ext  
